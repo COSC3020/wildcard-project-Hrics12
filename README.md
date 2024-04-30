@@ -4,3 +4,5 @@
 You have a cool idea for an algorithms project? Use this repository. Make sure
 to explain what problem you're solving, how you're doing it, and that you test
 your code.
+
+Quick question, when I was reading about the quick sort pivot I was reading about Median-of Medians. Is that something I could do for this?
